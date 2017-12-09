@@ -26,7 +26,4 @@
 
 - **5 Tips for Organizing Your CSS**  
   http://erraticwisdom.com/2006/01/18/5-tips-for-organizing-your-css  
-<<<<<<< HEAD
-  This article offers five really useful methods for keeping your stylesheets better organized (and, therefore, easier to edit later).
-=======
   This article offers five really useful methods for keeping your stylesheets better organized (and, therefore, easier to edit later).

@@ -10,7 +10,8 @@ Below you find a set of technologies that you would want to adopt in order to be
 
 ### Frontend
 
-#### [CSS](/css-reference.md)
+#### CSS
+* [CSS Tutorials](/css-reference.md)
 * [Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Must Watch CSS Talks](https://github.com/AllThingsSmitty/must-watch-css)
 * [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
@@ -22,12 +23,12 @@ Below you find a set of technologies that you would want to adopt in order to be
 * [Learn Core Javascript (ES5)](./learn-core-javascript-es5.md)
 * [Learn Javascript (ES6+)](./learn-javascript-es6.md)
 
-##### React
-* [React Basic](./react-basic-tutorials.md)
-* [React Intermediate](./react-intermediate-tutorials.md)
-* [React Advanced](./react-advanced-tutorials.md)
-* [Redux Tutorials](./redux-tutorials.md)
-* [Flow Tutorials](./flow-tutorials.md)
+- **React**:
+  - [React Basic](./react-basic-tutorials.md)
+  - [React Intermediate](./react-intermediate-tutorials.md)
+  - [React Advanced](./react-advanced-tutorials.md)
+  - [Redux Tutorials](./redux-tutorials.md)
+  - [Flow Tutorials](./flow-tutorials.md)
 
-##### React Native
-* [React Native](./react-native-tutorials.md)
+- **React Native**:
+  - [React Native](./react-native-tutorials.md)

@@ -6,7 +6,7 @@
   https://github.com/react-community/create-react-native-app  
   a new tool that makes it significantly easier to get started with a React Native project! It’s heavily inspired by the design of Create React App and is the product of a collaboration between Facebook and Expo (formerly Exponent).
 
-  - **React Native Express**  
+- **React Native Express**  
   http://www.reactnativeexpress.com  
   Learn React Native through interactive examples
   
@@ -23,6 +23,11 @@
 - **Stylying React Native**  
   https://www.youtube.com/playlist?list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO  
   Learn how to design your React Native App UI  
+
+- **A Year of React Native: Styling**  
+  https://madebymany.com/stories/a-year-of-react-native-styling-part-1  
+  https://madebymany.com/stories/a-year-of-react-native-styling-part-2  
+  Looks at ways that styling in RN differs from styling on the web, and useful patterns for organizing styling logic in RN apps.
 
 - **What Is React Native?**  
   http://www.learnreact.design/2017/06/20/what-is-react-native/ 
